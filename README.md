@@ -1,1 +1,1 @@
-# Busca-binaria-recursiva
+# Busca-Binaria-Sequencial
